@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Krishna Enterprises</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            text-align: center;
+        }
+
+        header {
+            background: #0a7a3d;
+            color: white;
+            padding: 20px;
+        }
+
+        .hero {
+            padding: 50px;
+        }
+
+        .btn {
+            background: #0a7a3d;
+            color: white;
+            padding: 12px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+
+        footer {
+            background: #eee;
+            padding: 15px;
+            margin-top: 30px;
+        }
+    </style>
+</head>
+<body>
+
+<header>
+    <h1>Krishna Enterprises</h1>
+    <p>Professional Solar Panel Cleaning Services</p>
+</header>
+
+<div class="hero">
+    <h2>Keep Your Solar Panels Clean & Efficient</h2>
+    <p>We provide reliable solar panel cleaning for homes and businesses.</p>
+    <a href="tel:+918459659774" class="btn">Call Now</a>
+</div>
+
+<section>
+    <h2>Our Services</h2>
+    <p>✓ Solar Panel Cleaning</p>
+    <p>✓ Maintenance Visits</p>
+    <p>✓ Residential & Commercial Service</p>
+</section>
+
+<section>
+    <h2>Contact Us</h2>
+    <p>Phone: +91 84596 59774</p>
+    <p>Email: sureshupadhyay@gmail.com</p>
+</section>
+
+<footer>
+    © 2026 Krishna Enterprises
+</footer>
+
+</body>
+</html>
